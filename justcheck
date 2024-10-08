@@ -1,0 +1,8 @@
+print("IT AUTOMATION WITH PYTHON".lower())
+print("it automation with python".upper())
+print("   hseujj    ".strip())
+print("   hseujj    ".lstrip())
+print("   hseujj    ".rstrip())
+print("it automation with python".count("t"))
+print("it automation with python".endswith("python"))
+print("""it automation with python""".split())
